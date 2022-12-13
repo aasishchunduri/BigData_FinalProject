@@ -70,6 +70,18 @@ We ran queries using the Amazon Athena.
 ## Evaluation and Optimization
 We have used several machine learning algorithms to build the models such as Logistic Regression, KNeighborsClassifier, Naive bayes, Decision tree, Random forest, and XGBoost algorithms to build the models. Out of these different models XGboost algorithms performs better with the better accuracy percentage whereas the Naive Bayes algorithm performed poorly with the given data with least accuracy rate among the models which we used. The accuracy score of the XGBoost algorithm is 91.37% whereas for the Naive Bayes it is 84.61%.
 
+# Results
+
+Below is the table representing the accuracy scores of the different models.
+
+| Model                 | Accuracy| 
+| -----------------     | --------| 
+| Logistic Regression   | 0.91364 | 
+| KNeighborsClassifier  | 0.90480 |
+| GaussianNB            | 0.84618 |
+| DecisionTreeClassifier| 0.86495 |
+| RandomForestClassifier| 0.90401 |
+| XGBClassifier         | 0.913726 |
 
 
 
