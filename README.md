@@ -83,6 +83,17 @@ Below is the table representing the accuracy scores of the different models.
 | RandomForestClassifier| 0.90401 |
 | XGBClassifier         | 0.913726 |
 
+# Future Work, Comments
+### What was unique about the data?  Did you have to deal with imbalance? What data cleaning did you do? Outlier treatment?  Imputation?
+The uniqueness of the dataset is about having different kinds of lifestyle habits which directly or indirectly effect the risk of attacking the heart disease for a person, few such habits are sleeptime, kidney disease, and physical activity.<br>
+The dataset which we chose is clean so we did not have to deal with the imbalance and perform the outlier treatment for the dataset.<br>
+Data preprocessing and cleaning steps which we carried out on our dataset is changing the categorical variables into the numerical so that we can be able to train the model to make the predictions.
+### Did you create any new additional features / variables?
+The dataset contains all the necessary variables to determine whether a person can get the heart disease or not, so we haven't created new feautures or the variables to the exisiting dataset.
+### What was the process you used for evaluation?  What was the best result?
+We have used 6 different machine learning models/algorithms and found out XGBClassifier is the best model among all other models with best accuracy percentage.
+
+
 
 
 
