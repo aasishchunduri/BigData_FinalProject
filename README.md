@@ -58,6 +58,21 @@ We have used Amazon Athena and Amazon Glue to query the data in the Amazon S3.<b
 <img src="images/bigdata_crawler.png"><br>
 <img src="images/bigdata_glue.png"><br>
 Here we can view the schema of the dataset using Amazon Glue. We can use the crawler with Glue to get the schema of the dataset.
+<img src="images/athena_1.jpeg"><br>
+<img src="images/athena_3.jpeg"><br><br>
+We ran queries using the Amazon Athena.
+
+* For the Heart Disease prediction, we have used multiple machine learning models to compare and check the accuracy and consider the model with the best accuracy percentage. We have found that Logistic Regression and XGBoost algorithm turns out to be the best models with more accuracy percentage between the train data and the test data. We had split the data in 70:30 ratio where 70% of the data is used for training the model and the remaining 30% is used to test the model.
+<img src="images/sagemaker_6.png"><br><br>
+* Logistic regression is a type of statistical model that is used for binary classification tasks, where the goal is to predict the probability that an example belongs to one of two classes. It is a type of regression model because it is used to make predictions about a continuous outcome (the probability that an example belongs to a particular class), but it uses a logistic function to constrain the predicted probabilities to lie between 0 and 1. This makes it different from other regression models, which can predict any value within the range of the dependent variable.<br><br>
+<img src="images/sagemaker_7.png"><br>
+* XGBoost works by creating a large number of decision trees, each of which is trained to make predictions for a subset of the training data. The predictions made by each tree are then combined to make a final prediction, using a technique called gradient boosting. This allows XGBoost to make highly accurate predictions while also being computationally efficient.
+
+
+
+
+
+
 
 
 
