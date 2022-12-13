@@ -67,7 +67,8 @@ We ran queries using the Amazon Athena.
 * Logistic regression is a type of statistical model that is used for binary classification tasks, where the goal is to predict the probability that an example belongs to one of two classes. It is a type of regression model because it is used to make predictions about a continuous outcome (the probability that an example belongs to a particular class), but it uses a logistic function to constrain the predicted probabilities to lie between 0 and 1. This makes it different from other regression models, which can predict any value within the range of the dependent variable.<br><br>
 <img src="images/sagemaker_7.png"><br>
 * XGBoost works by creating a large number of decision trees, each of which is trained to make predictions for a subset of the training data. The predictions made by each tree are then combined to make a final prediction, using a technique called gradient boosting. This allows XGBoost to make highly accurate predictions while also being computationally efficient.
-
+## Evaluation and Optimization
+We have used several machine learning algorithms to build the models such as Logistic Regression, KNeighborsClassifier, Naive bayes, Decision tree, Random forest, and XGBoost algorithms to build the models. Out of these different models XGboost algorithms performs better with the better accuracy percentage whereas the Naive Bayes algorithm performed poorly with the given data with least accuracy rate among the models which we used. The accuracy score of the XGBoost algorithm is 91.37% whereas for the Naive Bayes it is 84.61%.
 
 
 
