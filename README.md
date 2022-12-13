@@ -15,6 +15,12 @@ Link: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-hea
 We pre-process the dataset and use the data to make predictions and derive insights. Using multiple factors like high blood pressure, high cholesterol, smoking, and BMI we can train a machine learning model on this dataset to predict a person's risk of developing heart disease considering the various factors present in the dataset.
 
 # Deliverable 2
+## Data Understanding
+We have one csv file named heartdisease.csv where HeartDisease column is the dependent variable and remaining columns are the independent variables. We have 319795 entries and 18 columns.<br>
+
+We performed the exploratory data analysis on our dataset.
+
 ## Exploratory Data Analysis:
-We used AWS QuickSight for the exploraatory data analysis.
+We used AWS QuickSight for the exploratory data analysis.
+
 
