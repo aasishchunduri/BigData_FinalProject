@@ -92,7 +92,8 @@ Data preprocessing and cleaning steps which we carried out on our dataset is cha
 The dataset contains all the necessary variables to determine whether a person can get the heart disease or not, so we haven't created new feautures or the variables to the exisiting dataset.
 ### What was the process you used for evaluation?  What was the best result?
 We have used 6 different machine learning models/algorithms and found out XGBClassifier is the best model among all other models with best accuracy percentage.
-
+### What were the problems you faced? How did you solve them?
+As we have choosen the dataset from the kaggle instead of AWS registry we faced some difficulties in setting up the dataset in the AWS and working with the dataset by setting up all the acccesses to work upon. Later we faced some issues with Amazon Athena in querying our data from Amazon S3 and later we resolved the issue and got to run our queries efficiently. There were some challenges in setting up the notebook in the Amazon Sagemaker and running the differnt libraries which did not came as preinstalled so we had to install those libraries before working on the dataset and building the machine learning models.
 
 
 
