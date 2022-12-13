@@ -23,4 +23,18 @@ We performed the exploratory data analysis on our dataset.
 ## Exploratory Data Analysis:
 We used AWS QuickSight for the exploratory data analysis.
 
+<img src="images/quicksight_1.png">
+The above visualization represents the number of people having heart disease and those of not have it.<br>
+
+<img src="images/quicksight_2.png">
+The above visualization represents the relation between age category and heart disease. It gives an analysis of how many people belonging to a particular age have
+been exposed to heart disease or not.<br>
+
+<img src="images/quicksight_3.png">
+The above visualization is for Sex,Race against heart disease. It gives us an analysis of which race people and gender people are more effected by heart disease.<br>
+
+<img src="images/quicksight_4.png">
+The above chart explains the relationship between BMI, sleep time, and heart disease.<br>
+
+
 
