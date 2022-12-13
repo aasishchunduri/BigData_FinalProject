@@ -12,7 +12,9 @@ The dataset under consideration here is from the CDC's yearly poll of individual
 
 Link: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
 # Research Objectives:
-We pre-process the dataset and use the data to make predictions and derive insights. Using multiple factors like high blood pressure, high cholesterol, smoking, and BMI we can train a machine learning model on this dataset to predict a person's risk of developing heart disease considering the various factors present in the dataset.
+We pre-process the dataset and use the data to make predictions and derive insights. Using multiple factors like high blood pressure, high cholesterol, smoking, and BMI we can train a machine learning model on this dataset to predict a person's risk of developing heart disease considering the various factors present in the dataset. 
+* What habits increase the risk of getting heart disease ?
+* Using the various variables(habits) to predict a person's risk of developing heart diseas
 
 # Deliverable 2
 ## Data Understanding
