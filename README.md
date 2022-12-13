@@ -36,5 +36,19 @@ The above visualization is for Sex,Race against heart disease. It gives us an an
 <img src="images/quicksight_4.png">
 The above chart explains the relationship between BMI, sleep time, and heart disease.<br>
 
+## Data Preparation
+We used Sagemaker for the data preparation and the data cleaning process. We have imported the necessary libraries to perform these actions.
+<img src="images/sagemaker_1.png"><br>
+There are no missing values in the dataset in any column.
+<img src="images/dataprep_1.png"><br>
+We have multiple categorical values in each column. We need to convert all of them into numerical values to train the model.
+<img src="images/dataprep_2.png"><br><br>
+These are the steps taken in the Data preparation phase which makes the data ready to train using the machine learning model.
+
+# Deliverable 3
+## Analytics,Machine learning
+
+
+
 
 
