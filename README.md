@@ -47,6 +47,19 @@ These are the steps taken in the Data preparation phase which makes the data rea
 
 # Deliverable 3
 ## Analytics,Machine learning
+We have used different AWS services for this deliverable such as
+* Amazon S3
+* Amazon Glue
+* Amazon Athena
+* Amazon SageMaker
+<br><br>
+We have uploaded our dataset in the Amazon S3 and perfomed operations on the dataset using the S3 url of the dataset using different AWS services.<br>
+We have used Amazon Athena and Amazon Glue to query the data in the Amazon S3.<br>
+<img src="images/bigdata_crawler.png"><br>
+<img src="images/bigdata_glue.png"><br>
+Here we can view the schema of the dataset using Amazon Glue. We can use the crawler with Glue to get the schema of the dataset.
+
+
 
 
 
