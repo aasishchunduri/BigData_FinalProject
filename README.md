@@ -74,6 +74,10 @@ We have used several machine learning algorithms to build the models such as Log
 
 # Results
 
+<img src="images/analytics_1.png">
+<img src="images/analytics_2.png">
+<img src="images/analytics_3.png">
+
 Below is the table representing the accuracy scores of the different models.
 
 | Model                 | Accuracy| 
