@@ -94,6 +94,9 @@ The dataset contains all the necessary variables to determine whether a person c
 We have used 6 different machine learning models/algorithms and found out XGBClassifier is the best model among all other models with best accuracy percentage.
 ### What were the problems you faced? How did you solve them?
 As we have choosen the dataset from the kaggle instead of AWS registry we faced some difficulties in setting up the dataset in the AWS and working with the dataset by setting up all the acccesses to work upon. Later we faced some issues with Amazon Athena in querying our data from Amazon S3 and later we resolved the issue and got to run our queries efficiently. There were some challenges in setting up the notebook in the Amazon Sagemaker and running the differnt libraries which did not came as preinstalled so we had to install those libraries before working on the dataset and building the machine learning models.
+### What future work would you like to do?
+We can build an application to ask the user input about their habits and provides an insights and recommendations what needs to be done form their end to be healthy and risk free from the heart related diseases and also can study in depth which variable is effecting the most in causing the heart related diseases and can intimate the people about those potential habits which needs to be avoided.
+# Video Presentation
 
 
 
