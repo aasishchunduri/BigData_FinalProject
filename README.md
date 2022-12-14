@@ -103,7 +103,7 @@ As we have choosen the dataset from the kaggle instead of AWS registry we faced 
 ### What future work would you like to do?
 We can build an application to ask the user input about their habits and provides an insights and recommendations what needs to be done form their end to be healthy and risk free from the heart related diseases and also can study in depth which variable is effecting the most in causing the heart related diseases and can intimate the people about those potential habits which needs to be avoided.
 # Video Presentation
-
+[Presentation Video](Deliverable3.mp4)
 
 
 
